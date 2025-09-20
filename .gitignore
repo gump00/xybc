@@ -1,0 +1,46 @@
+# 操作系统生成的文件
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# 编辑器和IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# 临时文件
+*.tmp
+*.temp
+*.log
+
+# 备份文件
+*.bak
+*.backup
+
+# Python (开发服务器相关)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 不需要上传的开发文件
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 如果有的话，排除构建产物（本项目无需构建）
+# dist/
+# build/
+
+# GitHub相关
+.git/
+
+# 开发时的临时文件
+*.draft
+*.test.html
